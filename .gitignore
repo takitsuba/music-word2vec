@@ -1,0 +1,6 @@
+/input/*
+.ipynb_checkpoints/
+Untitled.ipynb
+word2vec-*
+*.zip
+*.png
